@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Eddie Andrews 👋
 
-<!--
-**EAndrews-crypto/EAndrews-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Short, catchy tagline, e.g., "Aspiring Software Engineer & Computer Science Student"]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Degree & Major in finance at Balwin Wallace University Expected Graduation: 2028
+* 🔭 **Current Focus:** Learning Fiance and accouting methods along with other business related practices
+* 🌱 **Currently Building:** A project going over the stock perofmace of Hershey. 
+* 💡 **Interests:** I am intereted in sales and marketing along with financial accoutning
+* ⚡ **Fun Fact:** I am traingn to run a half marathon
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| Stock ananlysis of Hershey| Looked up all information using bloomberg technologies.|
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** www.linkedin.com/in/eddie-andrews-007663355
+
+* **Email:** [eandrews24@bw.edu]
