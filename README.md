@@ -18,8 +18,8 @@
 
 | Project Name | Description | Tech Used |
 | --- | --- | --- |
-| Stock ananlysis of Hershey| Looked up all information using bloomberg technologies.|
-
+| Stock ananlysis of Hershey| Looked up all information using bloomberg technologies.| MAc Book
+ 
 
 ---
 
