@@ -1,6 +1,6 @@
 # Hi there, I'm Eddie Andrews 👋
 
-[Short, catchy tagline, e.g., "Aspiring Software Engineer & Computer Science Student"]
+
 
 ---
 
