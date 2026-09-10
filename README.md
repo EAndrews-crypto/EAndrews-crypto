@@ -1,6 +1,6 @@
 # Hi there, I'm Eddie Andrews 👋
-
-
+* download my resume [here].(https://rawcdn.githack.com/EAndrews-crypto/EAndrews-crypto/65ef7dfe35b2031e0fc01031551d9c0334f9ffbf/Andrews%20Pro%20Resume.pdf).
+  
 
 ---
 
